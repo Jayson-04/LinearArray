@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\bin\Debug\net10.0\ArrayLinear.exe
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\bin\Debug\net10.0\ArrayLinear.deps.json
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\bin\Debug\net10.0\ArrayLinear.runtimeconfig.json
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\bin\Debug\net10.0\ArrayLinear.dll
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\bin\Debug\net10.0\ArrayLinear.pdb
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.AssemblyInfo.cs
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.dll
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\refint\ArrayLinear.dll
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.pdb
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLinear.genruntimeconfig.cache
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ref\ArrayLinear.dll
+C:\Users\jayso\Documents\ArrayLinear\ArrayLinear\ArrayLinear\obj\Debug\net10.0\ArrayLin.CC374786.Up2Date
